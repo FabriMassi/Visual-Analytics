@@ -1,4 +1,4 @@
-# va_massidda
+# va_massidda - VAST challenge 2018 - Mini Challenge 2
 
 ## Project setup
 ```
