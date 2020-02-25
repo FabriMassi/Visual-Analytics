@@ -1,0 +1,107 @@
+measure,mean,std
+1-2-3-Trichlorobenzene,0.001,0.003
+1-2-4-Trichlorobenzene,0.001,0.0
+AGOC-3A,1.136,10.83
+AOX,8.882,11.617
+Acenaphthene,0.003,0.003
+Acenaphthylene,0.004,0.0
+Alachlor,0.141,0.141
+Aldrin,0.042,0.07
+Aluminium,134.702,141.894
+Ammonium,0.401,0.801
+Anionic active surfactants,0.067,0.076
+Anthracene,0.007,0.004
+Arsenic,1.076,1.0
+Atrazine,0.114,0.184
+Barium,31.068,15.142
+Benzo(a)anthracene,0.003,0.001
+Benzo(a)pyrene,0.006,0.003
+Benzo(b)fluoranthene,0.006,0.004
+Benzo(g-h-i)perylene,0.003,0.001
+Benzo(k)fluoranthene,0.006,0.003
+Berilium,0.0,0.0
+Bicarbonates,183.533,38.695
+Biochemical Oxygen,2.668,2.414
+Boron,35.538,5.395
+Cadmium,1.262,4.184
+Calcium,54.132,12.455
+Carbonates,25.862,25.341
+Cesium,0.008,0.091
+Chemical Oxygen Demand (Cr),21.222,15.855
+Chemical Oxygen Demand (Mn),4.602,2.373
+Chlorides,39.183,35.54
+Chlorodinine,0.174,0.108
+Chromium,6.061,9.453
+Chrysene,0.003,0.0
+Copper,13.468,26.05
+Cyanides,0.137,0.585
+Dieldrin,0.042,0.084
+Dissolved organic carbon,4.24,1.292
+Dissolved oxygen,8.892,2.006
+Dissolved silicates,3.992,3.296
+Endosulfan (alpha),0.049,0.099
+Endosulfan (beta),0.047,0.087
+Endrin,0.07,0.136
+Fecal coliforms,6.814,44.162
+Fecal streptococci ,1.145,11.944
+Fluoranthene,0.004,0.001
+Fluorene,0.005,0.0
+Heptachlor,0.007,0.011
+Heptachloroepoxide,0.007,0.02
+Hexachlorobenzene,0.009,0.009
+Indeno(1-2-3-c-d)pyrene,0.009,0.028
+Inorganic nitrogen,2.737,3.606
+Iron,81.343,1525.187
+Isodrin,0.012,0.011
+Lead,8.892,14.422
+Macrozoobenthos,2.094,2.524
+Magnesium,18.701,8.858
+Manganese,5.527,64.646
+Mercury,0.059,0.138
+Methoxychlor,0.049,0.041
+Methylosmoline,5.387,22.437
+Metolachlor,0.039,0.056
+Naphthalene,0.011,0.006
+Nickel,4.034,7.025
+Nitrates,1.516,0.873
+Nitrites,0.037,0.06
+Organic nitrogen,0.611,0.834
+Orthophosphate-phosphorus,0.059,0.072
+Oxygen saturation,85.331,13.126
+PAHs,11.371,13.116
+PCB 101,0.001,0.001
+PCB 118,0.002,0.0
+PCB 138,0.002,0.0
+PCB 153,0.002,0.0
+PCB 180,0.002,0.001
+PCB 28,0.002,0.004
+PCB 52,0.001,0.0
+Pentachlorobenzene,0.001,0.001
+Petroleum hydrocarbons,0.879,2.777
+Phenanthrene,0.005,0.0
+Potassium,3.238,1.677
+Pyrene,0.003,0.001
+Selenium,0.624,0.739
+Silica (SiO2),7.135,3.271
+Simazine,0.119,0.102
+Sodium,22.719,15.99
+Sulfides,0.067,0.04
+Sulphates,43.601,24.393
+Tetrachloromethane,0.192,0.211
+Total coliforms,58.441,562.426
+Total dissolved phosphorus,0.071,0.053
+Total dissolved salts,311.737,132.329
+Total extractable matter,1.704,5.014
+Total hardness,140.081,62.609
+Total nitrogen,2.212,1.367
+Total organic carbon,4.507,2.56
+Total phosphorus,0.117,0.141
+Trifluralin,0.1,0.0
+Water temperature,14.06,8.163
+Zinc,38.441,65.16
+alpha-Hexachlorocyclohexane,0.02,0.044
+beta-Hexaxchlorocyclohexane,0.05,0.067
+gamma-Hexachlorocyclohexane,0.031,0.065
+p-p-DDD,0.084,0.133
+p-p-DDE,0.029,0.042
+p-p-DDT,0.038,0.151
